@@ -1,0 +1,1 @@
+[深度学习分布式训练相关介绍 - Part 1 多GPU训练](https://zhuanlan.zhihu.com/p/70312627)
