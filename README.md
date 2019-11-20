@@ -10,4 +10,5 @@
 [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)\
 [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799)\
 [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941)\
-ResNet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+ResNet: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)\
+BERT: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
