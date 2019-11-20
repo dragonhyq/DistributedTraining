@@ -8,5 +8,5 @@
 ---
 ## paper
 [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)\
-[Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799)
+[Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799)\
 [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941)
