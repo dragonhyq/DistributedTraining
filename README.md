@@ -3,7 +3,8 @@
 [深度学习分布式训练相关介绍 - Part 2 详解分布式训练架构PS-Worker与Horovod](https://zhuanlan.zhihu.com/p/70603273)\
 [是时候放弃TensorFlow集群，拥抱Horovod了](https://zhuanlan.zhihu.com/p/64092047)\
 [Bringing HPC Techniques to Deep Learning](http://andrew.gibiansky.com/blog/machine-learning/baidu-allreduce/)\
-[一文说清楚Tensorflow分布式训练必备知识](https://zhuanlan.zhihu.com/p/56991108)
+[一文说清楚Tensorflow分布式训练必备知识](https://zhuanlan.zhihu.com/p/56991108)\
+[Speeding up BERT](https://blog.inten.to/speeding-up-bert-5528e18bb4ea)
 
 ---
 ## paper
