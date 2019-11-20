@@ -1,0 +1,1 @@
+Momentum Correction: to ensure that $\eta_{t+1}u_{t+2} = v_{t+2}$ given $\eta_tu_{t+1} = v_{t+1}$.
